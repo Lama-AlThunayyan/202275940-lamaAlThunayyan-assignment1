@@ -34,3 +34,4 @@ contactForm.addEventListener("submit", (e) => {
   formMsg.textContent = "Thanks! Your message has been recorded.";
   contactForm.reset();
 });
+// a comment to test git changes
